@@ -25,7 +25,8 @@
     "prepare": "yarn build"
   },
   "dependencies": {
-    "@embroider/addon-shim": "^1.0.0"
+    "@embroider/addon-shim": "^1.0.0",
+    "ember-cached-decorator-polyfill": "^0.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.17.0",
